@@ -1,0 +1,82 @@
+.main-heading {
+  margin-top: 88px;
+}
+.heading {
+  margin-top: 88px;
+  background-color: #fffcf9;
+  padding: 70px 40px;
+}
+.bg-overlay {
+  background-color: #fffcf9;
+  padding: 70px 0px;
+}
+.overlay {
+  padding: 70px 0px;
+}
+.box {
+  margin: 20px 0;
+  padding: 15px 20px;
+  background-color: #fffcf9;
+}
+.cards-design {
+  margin: 4rem 0;
+}
+.blueheading {
+  color: #2a68a0;
+}
+.footer {
+  background-color: #2a68a0;
+}
+.footer ul li {
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  margin: 5px 0;
+}
+.featicon ,.icons{
+  color: #ffad4a;
+}
+.trailbtn,
+.worktog,
+.submit {
+  padding: 15px 25px;
+  outline: none;
+  border: none;
+  background-color: #ffad4a;
+  color: #ffff;
+  border-radius: 50px;
+}
+.card-link {
+  text-decoration: none;
+  color: #ffad4a;
+}
+.card-link:hover {
+  color: #2a68a0;
+}
+.trailbtn:hover,
+.worktog:hover,
+.submit:hover {
+  border: 1px solid #ffad4a;
+  background-color: transparent;
+  color: #ffad4a;
+}
+.contact-section .icon {
+  color: #ffad4a;
+}
+.contact-page .form input,
+textarea {
+  width: 100%;
+  padding: 10px 15px;
+  outline: none;
+  border: none;
+  margin: 5px 0;
+  background-color: #f9f9f9;
+  border: 1px solid #e0dfdf;
+}
+.contact-page .form textarea {
+  resize: none;
+  margin: 5px 0;
+}
+.contact-page .row p {
+  margin-bottom: 5px;
+}
